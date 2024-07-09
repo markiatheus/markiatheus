@@ -9,7 +9,7 @@
 <p>
 <b>hey there! folks know me as markia.</b>
 
-i'm a creator and builder who loves building things at the intersection of technology, finance, and education. as a generalist, I've enjoy diving into the latest innovations while honoring the wisdom of the past and respecting its foundations.
+i'm a creator and builder who loves building things at the intersection of technology, finance, and education. as a generalist, I've enjoyed diving into the latest innovations while honoring the wisdom of the past and respecting its foundations.
 
 if you're looking for me, <b><a href="https://markiatheus.com">check out my website</a></b> and enter into the boundless realm of shared knowledge 🌌 💡
 </p>
