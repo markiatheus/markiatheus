@@ -2,7 +2,7 @@
 
 <img src="https://i.imgur.com/tSJBlII.png" width="25%" style="display: block; margin-left: auto; margin-right: auto; width: 10%;" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kode+Mono&size=10&duration=500&pause=50&color=000000&center=true&random=false&width=435&lines=%E2%98%86+markia.sh+%E2%98%86" alt="Typing SVG" /></a>
+<a href="https://twitter.com/MarkiaTheus"><img src="https://readme-typing-svg.demolab.com?font=Kode+Mono&size=10&duration=500&pause=50&color=000000&center=true&random=false&width=435&lines=%E2%98%86+markia.sh+%E2%98%86" alt="Typing SVG" /></a>
 
 
 
