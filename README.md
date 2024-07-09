@@ -28,7 +28,7 @@ if you're looking for me, <b><a href="https://markiatheus.com">check out my webs
 
 <br><br>
 
-<p align="center"><samp><i style="font-size:10px;">"imagination is at the heart of all innovation"</i></samp></p>
+<p align="center" style="font-size:10px;">"imagination is at the heart of all innovation"</p>
 
 <br><br><br>
 
