@@ -1,5 +1,3 @@
-### @markiatheus
-
 More of a product engineer than a classical programmer, but I still enjoy tinkering with code and electronics in my free time. 
 
 Internet cowboy, capitalist. 
